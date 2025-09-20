@@ -7,3 +7,4 @@ Este es mi primer proyecto usando Git
 * Aprendiendo Git paso a paso
   Editado
 * Línea de conflicto desde feature/conflictos
+* Línea de conflicto desde master
